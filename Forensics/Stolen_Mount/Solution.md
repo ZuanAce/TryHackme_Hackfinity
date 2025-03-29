@@ -66,7 +66,7 @@ THM{n0t_s3cur3_f1l3_sh4r1ng}
 This challenge demonstrated the risks associated with insecure NFS configurations. Attackers can exploit misconfigured NFS shares to gain unauthorized access to sensitive files.
 
 ## Flag: 
-Flag: THM{n0t_s3cur3_f1l3_sh4r1ng}
+THM{n0t_s3cur3_f1l3_sh4r1ng}
 
 
    
