@@ -1,3 +1,3 @@
 # TryHackme_Hackfinity
 
-![image](https://github.com/user-attachments/assets/f4c9d6f8-b88e-46f4-afc2-40760a9e5311)
+![image](https://github.com/user-attachments/assets/ab3fedbb-da9c-4f1b-917f-ebc6aa3aaba3)
